@@ -107,7 +107,7 @@ The implementation is organized into the following steps:
 ---
 
 ## Author
-- Your Name (Replace with your actual name or details)
+- Nagesh Sortur
 
 ---
 
